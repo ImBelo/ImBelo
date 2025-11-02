@@ -1,10 +1,6 @@
 ---
 <div align="center">
 
-# 👋 Hi, I'm Belo! 
-
-**`Digital Craftsman (Developer/Researcher/Creator)`**
-
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-2ea44f)](https://your-portfolio.com)
 [![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0A66C2)](https://linkedin.com/in/GianmarcoBeligni)
 [![Email](https://img.shields.io/badge/📧-Email-D14836)](mailto:gianmarco.beligni@gmail.com)
